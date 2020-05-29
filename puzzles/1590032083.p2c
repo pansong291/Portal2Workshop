@@ -4,8 +4,8 @@
 	"Version"		"14"
 	"FileID"		"0x000000007D7B0470"
 	"Timestamp_Created"		"0x000000005EC5F6D3"
-	"Timestamp_Modified"		"0x000000005EC8F73D"
-	"CompileTime"		"420.960022"
+	"Timestamp_Modified"		"0x000000005ECB99F4"
+	"CompileTime"		"460.903015"
 	"Coop"		"0"
 	"Title"		"Carters"
 	"Description"		"have fun.
@@ -152,7 +152,7 @@ The difficulty gradually increases."
 				"Y21"		"f11111111111111111111111110"
 				"Y20"		"f11111111111111111111111110"
 				"Y19"		"f11111111111111111111111110"
-				"Y18"		"f11111111111111111111111110"
+				"Y18"		"f11111101111111111111111110"
 				"Y17"		"f11101111111111111111111110"
 				"Y16"		"f11101110111111111111100110"
 				"Y15"		"f11111111111111111110000000"
@@ -193,7 +193,7 @@ The difficulty gradually increases."
 				"Y6"		"f00000000011101000011111110"
 				"Y5"		"f00000000011101000011111110"
 				"Y4"		"f00100000011101000011111110"
-				"Y3"		"f00000000011100000011111110"
+				"Y3"		"f00000000011100000111111110"
 				"Y2"		"f00000000011001111111111110"
 				"Y1"		"f00000000000001111111111110"
 				"Y0"		"f00000000011111111111111110"
@@ -219,7 +219,7 @@ The difficulty gradually increases."
 				"Y6"		"f00000000011101000011111110"
 				"Y5"		"f00000000011101000011111110"
 				"Y4"		"f00000000011101000011111110"
-				"Y3"		"f00000000011100000011111110"
+				"Y3"		"f00000000011100000111111110"
 				"Y2"		"f00000000011111111111111110"
 				"Y1"		"f00000000011111111111111110"
 				"Y0"		"f00000000011111111111111110"
@@ -245,7 +245,7 @@ The difficulty gradually increases."
 				"Y6"		"f00000000011100000011111110"
 				"Y5"		"f00000000011100000011111110"
 				"Y4"		"f00000000011101000011111110"
-				"Y3"		"f00000000011100000011111110"
+				"Y3"		"f00000000011100000111111110"
 				"Y2"		"f00000000011111111111111110"
 				"Y1"		"f00000000011111111111111110"
 				"Y0"		"f00000000011111111111111110"
@@ -271,7 +271,7 @@ The difficulty gradually increases."
 				"Y6"		"f00000000011100000011111110"
 				"Y5"		"f00000000011100000011111110"
 				"Y4"		"f00000000011100000011111110"
-				"Y3"		"f00000000011100000011111110"
+				"Y3"		"f00000000011100000111111110"
 				"Y2"		"f00000000011111111111111110"
 				"Y1"		"f00000000011111111111111110"
 				"Y0"		"f00000000011111111111111110"
@@ -545,7 +545,7 @@ The difficulty gradually increases."
 				"Y21"		"f11111111111111111111111110"
 				"Y20"		"f11111111111111111111111110"
 				"Y19"		"f11111111111110111101111110"
-				"Y18"		"f11111111111110111101111110"
+				"Y18"		"f00111111111110111101111110"
 				"Y17"		"f00000001111110111101111110"
 				"Y16"		"f00000001111111101101111110"
 				"Y15"		"f00000001111111101100111110"
@@ -834,7 +834,7 @@ The difficulty gradually increases."
 				"Y21"		"f11111111111111111111111110"
 				"Y20"		"f11111111111110000011111110"
 				"Y19"		"f11111111111111111111111110"
-				"Y18"		"f10000011111111111111111110"
+				"Y18"		"f00000011111111111111111110"
 				"Y17"		"f00000011111110011111100110"
 				"Y16"		"f00000011111111111110000000"
 				"Y15"		"f00000011111111111111111110"
@@ -886,7 +886,7 @@ The difficulty gradually increases."
 				"Y21"		"f11111111111111111111111110"
 				"Y20"		"f11111111111110000011111110"
 				"Y19"		"f11111111111111111111111110"
-				"Y18"		"f10000011111111111111111110"
+				"Y18"		"f00000011111111111111111110"
 				"Y17"		"f00000011111110011111111110"
 				"Y16"		"f00000011111111111111111110"
 				"Y15"		"f00000011111111111111111110"
@@ -1126,9 +1126,9 @@ The difficulty gradually increases."
 				"Y18"		"f11111111111111111110000110"
 				"Y17"		"f00000011111111111111000110"
 				"Y16"		"f00000000111110000010000000"
-				"Y15"		"f10000011000000000010000000"
+				"Y15"		"f00000011000000000010000000"
 				"Y14"		"f10000011000000000010000000"
-				"Y13"		"f10000011000000000010000000"
+				"Y13"		"f00000011000000000010000000"
 				"Y12"		"f00000011000000010110000000"
 				"Y11"		"f11011111000000010110000000"
 				"Y10"		"f11011111111111110110000000"
@@ -1175,7 +1175,7 @@ The difficulty gradually increases."
 				"Y21"		"f11111111111111111111111110"
 				"Y20"		"f11111111111111111111111110"
 				"Y19"		"f11111111111110000011111110"
-				"Y18"		"f11111111111110000011111110"
+				"Y18"		"f01111111111110000011111110"
 				"Y17"		"f00000011111110000011111110"
 				"Y16"		"f00000011111111100011100110"
 				"Y15"		"f00000011111111100010000000"
@@ -1201,7 +1201,7 @@ The difficulty gradually increases."
 				"Y21"		"f11111111111111111111111110"
 				"Y20"		"f11111111111111111111111110"
 				"Y19"		"f11111111111110000011111110"
-				"Y18"		"f11111111111110000011111110"
+				"Y18"		"f01111111111110000011111110"
 				"Y17"		"f00000011111110000011111110"
 				"Y16"		"f00000011111111100011111110"
 				"Y15"		"f00000011111111100010000000"
@@ -1555,11 +1555,11 @@ The difficulty gradually increases."
 		"Item"
 		{
 			"Index"		"21"
-			"Type"		"ITEM_LASER_EMITTER_OFFSET"
+			"Type"		"ITEM_LASER_EMITTER_CENTER"
 			"Deletable"		"1"
 			"VoxelPos"		"14 20 4"
 			"LocalPos"		"0 0 0"
-			"Angles"		"0 0 180"
+			"Angles"		"0 180 180"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"Facing"		"0 0 0"
@@ -1649,69 +1649,6 @@ The difficulty gradually increases."
 		"Item"
 		{
 			"Index"		"29"
-			"Type"		"ITEM_PAINT_SPLAT"
-			"Deletable"		"1"
-			"VoxelPos"		"16 18 0"
-			"LocalPos"		"0 0 0"
-			"Angles"		"0 0 0"
-			"ITEM_PROPERTY_PAINT_TYPE"		"1"
-			"ITEM_PROPERTY_DROPPER_ENABLED"		"1"
-			"ITEM_PROPERTY_ALLOW_STREAK_PAINT"		"1"
-			"ITEM_PROPERTY_PAINT_FLOW_TYPE"		"1"
-			"ITEM_PROPERTY_START_ENABLED"		"0"
-			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
-			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
-		}
-		"Item"
-		{
-			"Index"		"30"
-			"Type"		"ITEM_DROPPER_PAINT"
-			"Deletable"		"1"
-			"VoxelPos"		"16 18 4"
-			"LocalPos"		"0 0 0"
-			"Angles"		"0 0 180"
-			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
-			"ITEM_PROPERTY_PAINT_TYPE"		"1"
-			"ITEM_PROPERTY_DROPPER_ENABLED"		"1"
-			"ITEM_PROPERTY_ALLOW_STREAK_PAINT"		"1"
-			"ITEM_PROPERTY_PAINT_FLOW_TYPE"		"1"
-			"ITEM_PROPERTY_START_ENABLED"		"0"
-			"ITEM_PROPERTY_PAINT_EXPORT_TYPE"		"2"
-			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
-		}
-		"Item"
-		{
-			"Index"		"31"
-			"Type"		"ITEM_LAUTARO_PEDESTAL_BUTTONS"
-			"Deletable"		"1"
-			"VoxelPos"		"15 18 0"
-			"LocalPos"		"0 0 0"
-			"Angles"		"0 90 0"
-			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
-			"ITEM_PROPERTY_START_REVERSED"		"0"
-			"ITEM_PROPERTY_TIMER_DELAY"		"5"
-			"ITEM_PROPERTY_TIMER_SOUND"		"0"
-			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
-		}
-		"Item"
-		{
-			"Index"		"32"
-			"Type"		"ITEM_PORTAL_MAGNET"
-			"Deletable"		"1"
-			"VoxelPos"		"14 20 0"
-			"LocalPos"		"-0 -0.125 -0"
-			"Angles"		"0 90 0"
-			"ITEM_PROPERTY_START_ENABLED"		"1"
-			"ITEM_PROPERTY_START_REVERSED"		"0"
-			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
-		}
-		"Item"
-		{
-			"Index"		"33"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"11 20 4"
@@ -1723,7 +1660,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"34"
+			"Index"		"30"
 			"Type"		"ITEM_TURRET"
 			"Deletable"		"1"
 			"VoxelPos"		"11 19 0"
@@ -1734,7 +1671,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"35"
+			"Index"		"31"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"11 18 4"
@@ -1746,7 +1683,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"36"
+			"Index"		"32"
 			"Type"		"ITEM_TURRET"
 			"Deletable"		"1"
 			"VoxelPos"		"11 18 0"
@@ -1757,7 +1694,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"37"
+			"Index"		"33"
 			"Type"		"ITEM_TURRET"
 			"Deletable"		"1"
 			"VoxelPos"		"11 17 0"
@@ -1768,7 +1705,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"38"
+			"Index"		"34"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"11 16 4"
@@ -1780,7 +1717,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"39"
+			"Index"		"35"
 			"Type"		"ITEM_TURRET"
 			"Deletable"		"1"
 			"VoxelPos"		"11 16 0"
@@ -1791,7 +1728,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"40"
+			"Index"		"36"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"10 20 4"
@@ -1803,7 +1740,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"41"
+			"Index"		"37"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"10 16 4"
@@ -1815,7 +1752,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"42"
+			"Index"		"38"
 			"Type"		"ITEM_TURRET"
 			"Deletable"		"1"
 			"VoxelPos"		"10 16 0"
@@ -1826,7 +1763,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"43"
+			"Index"		"39"
 			"Type"		"ITEM_TURRET"
 			"Deletable"		"1"
 			"VoxelPos"		"9 16 0"
@@ -1837,7 +1774,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"44"
+			"Index"		"40"
 			"Type"		"ITEM_LAUTARO_PEDESTAL_BUTTONS"
 			"Deletable"		"1"
 			"VoxelPos"		"6 19 0"
@@ -1852,10 +1789,10 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"45"
+			"Index"		"41"
 			"Type"		"ITEM_CUBE"
 			"Deletable"		"1"
-			"VoxelPos"		"6 19 0"
+			"VoxelPos"		"6 18 0"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_CUBE_TYPE"		"2"
@@ -1868,10 +1805,10 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"46"
+			"Index"		"42"
 			"Type"		"ITEM_DROPPER_CUBE"
 			"Deletable"		"1"
-			"VoxelPos"		"6 19 4"
+			"VoxelPos"		"6 18 5"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 180"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
@@ -1882,11 +1819,11 @@ The difficulty gradually increases."
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"ITEM_PROPERTY_TIMER_DELAY"		"0"
 			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
+			"ConnectionVisiblity"		"2"
 		}
 		"Item"
 		{
-			"Index"		"47"
+			"Index"		"43"
 			"Type"		"ITEM_SECONDARY_OBSERVATION_ROOM"
 			"Deletable"		"1"
 			"VoxelPos"		"6 19 3"
@@ -1897,7 +1834,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"48"
+			"Index"		"44"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"19 19 6"
@@ -1909,7 +1846,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"49"
+			"Index"		"45"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"18 19 6"
@@ -1921,7 +1858,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"50"
+			"Index"		"46"
 			"Type"		"DOOR"
 			"Deletable"		"1"
 			"VoxelPos"		"18 19 6"
@@ -1935,7 +1872,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"51"
+			"Index"		"47"
 			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
 			"Deletable"		"1"
 			"VoxelPos"		"22 18 6"
@@ -1949,7 +1886,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"52"
+			"Index"		"48"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"22 17 6"
@@ -1961,7 +1898,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"53"
+			"Index"		"49"
 			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
 			"Deletable"		"1"
 			"VoxelPos"		"22 16 7"
@@ -1975,7 +1912,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"54"
+			"Index"		"50"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"21 18 6"
@@ -1987,7 +1924,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"55"
+			"Index"		"51"
 			"Type"		"ITEM_BUTTON_FLOOR"
 			"Deletable"		"1"
 			"VoxelPos"		"21 17 6"
@@ -1999,7 +1936,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"56"
+			"Index"		"52"
 			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
 			"Deletable"		"1"
 			"VoxelPos"		"21 16 7"
@@ -2013,7 +1950,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"57"
+			"Index"		"53"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"20 18 6"
@@ -2025,7 +1962,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"58"
+			"Index"		"54"
 			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
 			"Deletable"		"1"
 			"VoxelPos"		"20 17 6"
@@ -2039,7 +1976,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"59"
+			"Index"		"55"
 			"Type"		"ITEM_WOM_CONDUCTOR"
 			"Deletable"		"1"
 			"VoxelPos"		"19 18 6"
@@ -2051,7 +1988,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"60"
+			"Index"		"56"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"19 18 6"
@@ -2063,7 +2000,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"61"
+			"Index"		"57"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"17 17 9"
@@ -2075,7 +2012,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"62"
+			"Index"		"58"
 			"Type"		"ITEM_TRIGGERS"
 			"Deletable"		"1"
 			"VoxelPos"		"17 16 6"
@@ -2089,7 +2026,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"63"
+			"Index"		"59"
 			"Type"		"ITEM_SECONDARY_OBSERVATION_ROOM"
 			"Deletable"		"1"
 			"VoxelPos"		"16 19 9"
@@ -2100,7 +2037,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"64"
+			"Index"		"60"
 			"Type"		"ITEM_TRIGGERS"
 			"Deletable"		"1"
 			"VoxelPos"		"15 16 6"
@@ -2114,7 +2051,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"65"
+			"Index"		"61"
 			"Type"		"ITEM_BARRIER_HAZARD"
 			"Deletable"		"1"
 			"VoxelPos"		"15 16 6"
@@ -2128,7 +2065,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"66"
+			"Index"		"62"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"15 16 6"
@@ -2139,7 +2076,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"67"
+			"Index"		"63"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"15 16 6"
@@ -2150,7 +2087,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"68"
+			"Index"		"64"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"14 17 9"
@@ -2162,7 +2099,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"69"
+			"Index"		"65"
 			"Type"		"ITEM_PORTAL_MAGNET"
 			"Deletable"		"1"
 			"VoxelPos"		"13 19 6"
@@ -2175,7 +2112,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"70"
+			"Index"		"66"
 			"Type"		"ITEM_LASER_CATCHER_OFFSET"
 			"Deletable"		"1"
 			"VoxelPos"		"13 19 6"
@@ -2187,7 +2124,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"71"
+			"Index"		"67"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"13 18 9"
@@ -2199,7 +2136,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"72"
+			"Index"		"68"
 			"Type"		"ITEM_LASER_EMITTER_CENTER"
 			"Deletable"		"1"
 			"VoxelPos"		"13 17 9"
@@ -2212,7 +2149,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"73"
+			"Index"		"69"
 			"Type"		"ITEM_PORTAL_MAGNET"
 			"Deletable"		"1"
 			"VoxelPos"		"13 17 6"
@@ -2225,7 +2162,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"74"
+			"Index"		"70"
 			"Type"		"ITEM_LASER_CATCHER_OFFSET"
 			"Deletable"		"1"
 			"VoxelPos"		"13 17 6"
@@ -2237,7 +2174,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"75"
+			"Index"		"71"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"5 16 10"
@@ -2249,7 +2186,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"76"
+			"Index"		"72"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"5 16 9"
@@ -2261,7 +2198,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"77"
+			"Index"		"73"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"4 17 10"
@@ -2273,7 +2210,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"78"
+			"Index"		"74"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"4 17 8"
@@ -2285,7 +2222,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"79"
+			"Index"		"75"
 			"Type"		"ITEM_SECONDARY_OBSERVATION_ROOM"
 			"Deletable"		"1"
 			"VoxelPos"		"3 17 9"
@@ -2296,7 +2233,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"80"
+			"Index"		"76"
 			"Type"		"ITEM_PANEL_ANGLED"
 			"Deletable"		"1"
 			"VoxelPos"		"3 17 5"
@@ -2312,7 +2249,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"81"
+			"Index"		"77"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"2 17 10"
@@ -2324,7 +2261,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"82"
+			"Index"		"78"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"2 17 8"
@@ -2336,7 +2273,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"83"
+			"Index"		"79"
 			"Type"		"ITEM_LAUTARO_PROTRUDING_PEDESTAL"
 			"Deletable"		"1"
 			"VoxelPos"		"1 17 5"
@@ -2351,7 +2288,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"84"
+			"Index"		"80"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"0 17 10"
@@ -2363,36 +2300,23 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"85"
+			"Index"		"81"
 			"Type"		"ITEM_PORTAL_MAGNET"
+			"Deletable"		"1"
+			"VoxelPos"		"0 17 8"
+			"LocalPos"		"-0.125 -0 -0"
+			"Angles"		"0 0 90"
+			"ITEM_PROPERTY_START_ENABLED"		"1"
+			"ITEM_PROPERTY_START_REVERSED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"82"
+			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"0 17 9"
-			"LocalPos"		"-0.125 -0 -0"
-			"Angles"		"0 0 90"
-			"ITEM_PROPERTY_START_ENABLED"		"1"
-			"ITEM_PROPERTY_START_REVERSED"		"0"
-			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
-		}
-		"Item"
-		{
-			"Index"		"86"
-			"Type"		"ITEM_PORTAL_MAGNET"
-			"Deletable"		"1"
-			"VoxelPos"		"0 17 8"
-			"LocalPos"		"-0.125 -0 -0"
-			"Angles"		"0 0 90"
-			"ITEM_PROPERTY_START_ENABLED"		"1"
-			"ITEM_PROPERTY_START_REVERSED"		"0"
-			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
-		}
-		"Item"
-		{
-			"Index"		"87"
-			"Type"		"ITEM_LIGHT_PANEL"
-			"Deletable"		"1"
-			"VoxelPos"		"0 17 8"
 			"LocalPos"		"-0 0.375 -0"
 			"Angles"		"0 -90 -90"
 			"ITEM_PROPERTY_CUBE_TYPE"		"0"
@@ -2401,20 +2325,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"88"
-			"Type"		"ITEM_PORTAL_MAGNET"
-			"Deletable"		"1"
-			"VoxelPos"		"0 17 7"
-			"LocalPos"		"-0.125 -0 -0"
-			"Angles"		"0 0 90"
-			"ITEM_PROPERTY_START_ENABLED"		"1"
-			"ITEM_PROPERTY_START_REVERSED"		"0"
-			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
-		}
-		"Item"
-		{
-			"Index"		"89"
+			"Index"		"83"
 			"Type"		"ITEM_PORTAL_MAGNET"
 			"Deletable"		"1"
 			"VoxelPos"		"0 17 6"
@@ -2427,7 +2338,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"90"
+			"Index"		"84"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"0 17 6"
@@ -2439,7 +2350,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"91"
+			"Index"		"85"
 			"Type"		"ITEM_TRIGGERS"
 			"Deletable"		"1"
 			"VoxelPos"		"0 17 6"
@@ -2453,7 +2364,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"92"
+			"Index"		"86"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"0 16 7"
@@ -2465,7 +2376,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"93"
+			"Index"		"87"
 			"Type"		"ITEM_CUBE"
 			"Deletable"		"1"
 			"VoxelPos"		"0 16 6"
@@ -2481,7 +2392,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"94"
+			"Index"		"88"
 			"Type"		"ITEM_DROPPER_CUBE"
 			"Deletable"		"1"
 			"VoxelPos"		"0 16 10"
@@ -2499,7 +2410,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"95"
+			"Index"		"89"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"5 14 10"
@@ -2511,7 +2422,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"96"
+			"Index"		"90"
 			"Type"		"ITEM_TRIGGERS"
 			"Deletable"		"1"
 			"VoxelPos"		"5 13 10"
@@ -2525,7 +2436,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"97"
+			"Index"		"91"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"4 13 10"
@@ -2537,7 +2448,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"98"
+			"Index"		"92"
 			"Type"		"ITEM_LASER_CATCHER_OFFSET"
 			"Deletable"		"1"
 			"VoxelPos"		"3 15 10"
@@ -2549,7 +2460,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"99"
+			"Index"		"93"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"2 13 10"
@@ -2561,7 +2472,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"100"
+			"Index"		"94"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"0 15 10"
@@ -2573,7 +2484,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"101"
+			"Index"		"95"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"0 14 10"
@@ -2585,7 +2496,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"102"
+			"Index"		"96"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"0 13 10"
@@ -2597,7 +2508,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"103"
+			"Index"		"97"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"24 14 8"
@@ -2609,7 +2520,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"104"
+			"Index"		"98"
 			"Type"		"ITEM_SECONDARY_OBSERVATION_ROOM"
 			"Deletable"		"1"
 			"VoxelPos"		"24 12 7"
@@ -2620,7 +2531,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"105"
+			"Index"		"99"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"24 10 8"
@@ -2632,7 +2543,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"106"
+			"Index"		"100"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"24 8 8"
@@ -2644,7 +2555,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"107"
+			"Index"		"101"
 			"Type"		"ITEM_PORTAL_MAGNET"
 			"Deletable"		"1"
 			"VoxelPos"		"24 7 8"
@@ -2657,7 +2568,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"108"
+			"Index"		"102"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"24 7 8"
@@ -2669,7 +2580,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"109"
+			"Index"		"103"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"24 7 5"
@@ -2681,7 +2592,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"110"
+			"Index"		"104"
 			"Type"		"ITEM_PORTAL_MAGNET"
 			"Deletable"		"1"
 			"VoxelPos"		"24 7 4"
@@ -2694,7 +2605,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"111"
+			"Index"		"105"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"23 15 8"
@@ -2706,7 +2617,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"112"
+			"Index"		"106"
 			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
 			"Deletable"		"1"
 			"VoxelPos"		"23 8 8"
@@ -2720,7 +2631,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"113"
+			"Index"		"107"
 			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
 			"Deletable"		"1"
 			"VoxelPos"		"23 8 7"
@@ -2734,7 +2645,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"114"
+			"Index"		"108"
 			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
 			"Deletable"		"1"
 			"VoxelPos"		"23 8 6"
@@ -2748,7 +2659,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"115"
+			"Index"		"109"
 			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
 			"Deletable"		"1"
 			"VoxelPos"		"23 8 5"
@@ -2762,7 +2673,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"116"
+			"Index"		"110"
 			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
 			"Deletable"		"1"
 			"VoxelPos"		"23 8 4"
@@ -2776,7 +2687,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"117"
+			"Index"		"111"
 			"Type"		"ITEM_PANEL_ANGLED"
 			"Deletable"		"1"
 			"VoxelPos"		"22 11 4"
@@ -2792,7 +2703,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"118"
+			"Index"		"112"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"22 9 8"
@@ -2804,7 +2715,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"119"
+			"Index"		"113"
 			"Type"		"ITEM_PORTAL_MAGNET"
 			"Deletable"		"1"
 			"VoxelPos"		"21 9 4"
@@ -2817,7 +2728,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"120"
+			"Index"		"114"
 			"Type"		"ITEM_PANEL_FLIP"
 			"Deletable"		"1"
 			"VoxelPos"		"21 9 8"
@@ -2829,7 +2740,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"121"
+			"Index"		"115"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"20 15 8"
@@ -2841,7 +2752,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"122"
+			"Index"		"116"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"20 9 8"
@@ -2853,7 +2764,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"123"
+			"Index"		"117"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"19 14 8"
@@ -2865,7 +2776,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"124"
+			"Index"		"118"
 			"Type"		"ITEM_LAUTARO_PEDESTAL_BUTTONS"
 			"Deletable"		"1"
 			"VoxelPos"		"19 14 4"
@@ -2880,7 +2791,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"125"
+			"Index"		"119"
 			"Type"		"ITEM_CUBE"
 			"Deletable"		"1"
 			"VoxelPos"		"19 13 4"
@@ -2896,7 +2807,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"126"
+			"Index"		"120"
 			"Type"		"ITEM_DROPPER_CUBE"
 			"Deletable"		"1"
 			"VoxelPos"		"19 13 8"
@@ -2914,7 +2825,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"127"
+			"Index"		"121"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"19 12 8"
@@ -2926,7 +2837,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"128"
+			"Index"		"122"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"19 10 8"
@@ -2938,7 +2849,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"129"
+			"Index"		"123"
 			"Type"		"ITEM_LASER_CATCHER_OFFSET"
 			"Deletable"		"1"
 			"VoxelPos"		"19 12 4"
@@ -2950,7 +2861,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"130"
+			"Index"		"124"
 			"Type"		"ITEM_LASER_EMITTER_OFFSET"
 			"Deletable"		"1"
 			"VoxelPos"		"19 9 4"
@@ -2963,7 +2874,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"131"
+			"Index"		"125"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"17 15 9"
@@ -2975,7 +2886,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"132"
+			"Index"		"126"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"17 14 7"
@@ -2987,7 +2898,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"133"
+			"Index"		"127"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"17 13 9"
@@ -2999,7 +2910,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"134"
+			"Index"		"128"
 			"Type"		"ITEM_TRIGGERS"
 			"Deletable"		"1"
 			"VoxelPos"		"17 9 6"
@@ -3013,7 +2924,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"135"
+			"Index"		"129"
 			"Type"		"ITEM_LAUTARO_PROTRUDING_PEDESTAL"
 			"Deletable"		"1"
 			"VoxelPos"		"17 7 5"
@@ -3028,7 +2939,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"136"
+			"Index"		"130"
 			"Type"		"ITEM_SECONDARY_OBSERVATION_ROOM"
 			"Deletable"		"1"
 			"VoxelPos"		"17 6 9"
@@ -3039,10 +2950,10 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"137"
+			"Index"		"131"
 			"Type"		"ITEM_CUBE"
 			"Deletable"		"1"
-			"VoxelPos"		"17 3 6"
+			"VoxelPos"		"17 8 6"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"ITEM_PROPERTY_CUBE_TYPE"		"2"
@@ -3055,10 +2966,10 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"138"
+			"Index"		"132"
 			"Type"		"ITEM_DROPPER_CUBE"
 			"Deletable"		"1"
-			"VoxelPos"		"17 3 9"
+			"VoxelPos"		"17 8 9"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 180"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
@@ -3073,7 +2984,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"139"
+			"Index"		"133"
 			"Type"		"ITEM_TRIGGERS"
 			"Deletable"		"1"
 			"VoxelPos"		"16 13 6"
@@ -3087,7 +2998,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"140"
+			"Index"		"134"
 			"Type"		"DOOR"
 			"Deletable"		"1"
 			"VoxelPos"		"16 12 6"
@@ -3101,7 +3012,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"141"
+			"Index"		"135"
 			"Type"		"ITEM_BARRIER_HAZARD"
 			"Deletable"		"1"
 			"VoxelPos"		"16 12 6"
@@ -3115,7 +3026,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"142"
+			"Index"		"136"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"16 12 6"
@@ -3126,7 +3037,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"143"
+			"Index"		"137"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"16 12 6"
@@ -3137,7 +3048,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"144"
+			"Index"		"138"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"16 11 6"
@@ -3149,7 +3060,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"145"
+			"Index"		"139"
 			"Type"		"ITEM_TRIGGERS"
 			"Deletable"		"1"
 			"VoxelPos"		"16 11 6"
@@ -3163,7 +3074,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"146"
+			"Index"		"140"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"16 10 6"
@@ -3175,7 +3086,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"147"
+			"Index"		"141"
 			"Type"		"DOOR"
 			"Deletable"		"1"
 			"VoxelPos"		"16 10 6"
@@ -3189,7 +3100,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"148"
+			"Index"		"142"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"15 15 9"
@@ -3201,7 +3112,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"149"
+			"Index"		"143"
 			"Type"		"ITEM_BARRIER_HAZARD"
 			"Deletable"		"1"
 			"VoxelPos"		"15 15 6"
@@ -3215,7 +3126,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"150"
+			"Index"		"144"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"15 15 6"
@@ -3226,7 +3137,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"151"
+			"Index"		"145"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"15 15 6"
@@ -3237,7 +3148,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"152"
+			"Index"		"146"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"15 14 7"
@@ -3249,7 +3160,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"153"
+			"Index"		"147"
 			"Type"		"ITEM_BARRIER_HAZARD"
 			"Deletable"		"1"
 			"VoxelPos"		"15 14 6"
@@ -3263,7 +3174,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"154"
+			"Index"		"148"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"15 14 6"
@@ -3274,7 +3185,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"155"
+			"Index"		"149"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"15 14 6"
@@ -3285,7 +3196,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"156"
+			"Index"		"150"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"15 13 9"
@@ -3297,7 +3208,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"157"
+			"Index"		"151"
 			"Type"		"ITEM_BARRIER_HAZARD"
 			"Deletable"		"1"
 			"VoxelPos"		"15 13 6"
@@ -3311,7 +3222,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"158"
+			"Index"		"152"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"15 13 6"
@@ -3322,7 +3233,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"159"
+			"Index"		"153"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"15 13 6"
@@ -3333,7 +3244,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"160"
+			"Index"		"154"
 			"Type"		"ITEM_BEE_LOGIC_STRIP"
 			"Deletable"		"1"
 			"VoxelPos"		"14 8 9"
@@ -3346,7 +3257,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"161"
+			"Index"		"155"
 			"Type"		"ITEM_LASER_EMITTER_OFFSET"
 			"Deletable"		"1"
 			"VoxelPos"		"14 8 9"
@@ -3359,7 +3270,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"162"
+			"Index"		"156"
 			"Type"		"ITEM_BEE_LOGIC_STRIP"
 			"Deletable"		"1"
 			"VoxelPos"		"14 3 9"
@@ -3372,7 +3283,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"163"
+			"Index"		"157"
 			"Type"		"ITEM_BEE_LOGIC_STRIP"
 			"Deletable"		"1"
 			"VoxelPos"		"14 3 8"
@@ -3385,7 +3296,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"164"
+			"Index"		"158"
 			"Type"		"ITEM_BEE_LOGIC_STRIP"
 			"Deletable"		"1"
 			"VoxelPos"		"14 3 8"
@@ -3398,7 +3309,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"165"
+			"Index"		"159"
 			"Type"		"ITEM_LASER_RELAY_OFFSET"
 			"Deletable"		"1"
 			"VoxelPos"		"14 7 7"
@@ -3410,7 +3321,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"166"
+			"Index"		"160"
 			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
 			"Deletable"		"1"
 			"VoxelPos"		"13 6 8"
@@ -3424,7 +3335,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"167"
+			"Index"		"161"
 			"Type"		"ITEM_LASER_RELAY_OFFSET"
 			"Deletable"		"1"
 			"VoxelPos"		"14 6 6"
@@ -3436,7 +3347,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"168"
+			"Index"		"162"
 			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
 			"Deletable"		"1"
 			"VoxelPos"		"13 5 8"
@@ -3450,7 +3361,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"169"
+			"Index"		"163"
 			"Type"		"ITEM_LASER_RELAY_CENTER"
 			"Deletable"		"1"
 			"VoxelPos"		"14 5 6"
@@ -3462,7 +3373,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"170"
+			"Index"		"164"
 			"Type"		"ITEM_BEE_LOGIC_STRIP"
 			"Deletable"		"1"
 			"VoxelPos"		"13 4 9"
@@ -3475,7 +3386,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"171"
+			"Index"		"165"
 			"Type"		"ITEM_BUTTON_FLOOR"
 			"Deletable"		"1"
 			"VoxelPos"		"13 4 9"
@@ -3487,7 +3398,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"172"
+			"Index"		"166"
 			"Type"		"ITEM_LASER_RELAY_OFFSET"
 			"Deletable"		"1"
 			"VoxelPos"		"14 4 6"
@@ -3499,7 +3410,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"173"
+			"Index"		"167"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"12 6 7"
@@ -3511,7 +3422,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"174"
+			"Index"		"168"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"12 4 7"
@@ -3523,7 +3434,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"175"
+			"Index"		"169"
 			"Type"		"ITEM_TRIGGERS"
 			"Deletable"		"1"
 			"VoxelPos"		"12 3 9"
@@ -3537,7 +3448,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"176"
+			"Index"		"170"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"12 2 6"
@@ -3549,7 +3460,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"177"
+			"Index"		"171"
 			"Type"		"ITEM_BARRIER"
 			"Deletable"		"1"
 			"VoxelPos"		"12 2 6"
@@ -3561,7 +3472,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"178"
+			"Index"		"172"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"12 2 6"
@@ -3572,7 +3483,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"179"
+			"Index"		"173"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"12 2 6"
@@ -3583,7 +3494,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"180"
+			"Index"		"174"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"12 2 6"
@@ -3594,7 +3505,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"181"
+			"Index"		"175"
 			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
 			"Deletable"		"1"
 			"VoxelPos"		"12 1 6"
@@ -3608,7 +3519,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"182"
+			"Index"		"176"
 			"Type"		"ITEM_BARRIER_HAZARD"
 			"Deletable"		"1"
 			"VoxelPos"		"11 7 6"
@@ -3622,7 +3533,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"183"
+			"Index"		"177"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"11 7 6"
@@ -3633,7 +3544,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"184"
+			"Index"		"178"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"11 7 6"
@@ -3644,21 +3555,21 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"185"
+			"Index"		"179"
 			"Type"		"DOOR"
 			"Deletable"		"1"
 			"VoxelPos"		"11 7 6"
 			"LocalPos"		"0.375 -0 -0"
 			"Angles"		"0 180 0"
-			"ITEM_PROPERTY_CONNECTION_COUNT"		"4"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"ITEM_PROPERTY_START_REVERSED"		"0"
 			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
+			"ConnectionVisiblity"		"2"
 		}
 		"Item"
 		{
-			"Index"		"186"
+			"Index"		"180"
 			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
 			"Deletable"		"1"
 			"VoxelPos"		"11 2 6"
@@ -3672,7 +3583,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"187"
+			"Index"		"181"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"11 1 6"
@@ -3684,7 +3595,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"188"
+			"Index"		"182"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"10 7 6"
@@ -3696,7 +3607,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"189"
+			"Index"		"183"
 			"Type"		"ITEM_TRIGGERS"
 			"Deletable"		"1"
 			"VoxelPos"		"10 7 6"
@@ -3710,7 +3621,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"190"
+			"Index"		"184"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"9 7 6"
@@ -3722,7 +3633,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"191"
+			"Index"		"185"
 			"Type"		"DOOR"
 			"Deletable"		"1"
 			"VoxelPos"		"9 7 6"
@@ -3736,7 +3647,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"192"
+			"Index"		"186"
 			"Type"		"ITEM_PANEL_CLEAR"
 			"Deletable"		"1"
 			"VoxelPos"		"9 1 6"
@@ -3752,7 +3663,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"193"
+			"Index"		"187"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"8 7 9"
@@ -3764,7 +3675,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"194"
+			"Index"		"188"
 			"Type"		"ITEM_LASER_CATCHER_CENTER"
 			"Deletable"		"1"
 			"VoxelPos"		"8 5 9"
@@ -3776,7 +3687,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"195"
+			"Index"		"189"
 			"Type"		"ITEM_PORTAL_MAGNET"
 			"Deletable"		"1"
 			"VoxelPos"		"8 4 6"
@@ -3789,7 +3700,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"196"
+			"Index"		"190"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"8 3 9"
@@ -3801,7 +3712,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"197"
+			"Index"		"191"
 			"Type"		"ITEM_LAUTARO_PROTRUDING_PEDESTAL"
 			"Deletable"		"1"
 			"VoxelPos"		"8 2 5"
@@ -3816,7 +3727,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"198"
+			"Index"		"192"
 			"Type"		"ITEM_LASER_RELAY_OFFSET"
 			"Deletable"		"1"
 			"VoxelPos"		"7 5 6"
@@ -3828,7 +3739,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"199"
+			"Index"		"193"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"7 0 9"
@@ -3840,7 +3751,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"200"
+			"Index"		"194"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"5 14 7"
@@ -3852,7 +3763,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"201"
+			"Index"		"195"
 			"Type"		"ITEM_LASER_EMITTER_OFFSET"
 			"Deletable"		"1"
 			"VoxelPos"		"5 13 9"
@@ -3865,7 +3776,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"202"
+			"Index"		"196"
 			"Type"		"ITEM_CUBE"
 			"Deletable"		"1"
 			"VoxelPos"		"5 5 6"
@@ -3881,7 +3792,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"203"
+			"Index"		"197"
 			"Type"		"ITEM_DROPPER_CUBE"
 			"Deletable"		"1"
 			"VoxelPos"		"5 5 9"
@@ -3899,7 +3810,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"204"
+			"Index"		"198"
 			"Type"		"ITEM_LASER_RELAY_OFFSET"
 			"Deletable"		"1"
 			"VoxelPos"		"5 0 6"
@@ -3911,7 +3822,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"205"
+			"Index"		"199"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"4 13 8"
@@ -3923,7 +3834,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"206"
+			"Index"		"200"
 			"Type"		"ITEM_LASER_RELAY_OFFSET"
 			"Deletable"		"1"
 			"VoxelPos"		"4 3 6"
@@ -3935,7 +3846,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"207"
+			"Index"		"201"
 			"Type"		"ITEM_PORTAL_MAGNET"
 			"Deletable"		"1"
 			"VoxelPos"		"4 0 6"
@@ -3948,7 +3859,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"208"
+			"Index"		"202"
 			"Type"		"ITEM_PANEL_CLEAR"
 			"Deletable"		"1"
 			"VoxelPos"		"3 13 9"
@@ -3964,7 +3875,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"209"
+			"Index"		"203"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"2 13 8"
@@ -3976,7 +3887,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"210"
+			"Index"		"204"
 			"Type"		"ITEM_TRIGGERS"
 			"Deletable"		"1"
 			"VoxelPos"		"2 13 6"
@@ -3990,7 +3901,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"211"
+			"Index"		"205"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"2 12 6"
@@ -4002,7 +3913,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"212"
+			"Index"		"206"
 			"Type"		"DOOR"
 			"Deletable"		"1"
 			"VoxelPos"		"2 12 6"
@@ -4016,7 +3927,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"213"
+			"Index"		"207"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"2 11 6"
@@ -4028,7 +3939,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"214"
+			"Index"		"208"
 			"Type"		"ITEM_TRIGGERS"
 			"Deletable"		"1"
 			"VoxelPos"		"2 11 6"
@@ -4042,7 +3953,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"215"
+			"Index"		"209"
 			"Type"		"ITEM_BARRIER_HAZARD"
 			"Deletable"		"1"
 			"VoxelPos"		"2 10 6"
@@ -4056,7 +3967,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"216"
+			"Index"		"210"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"2 10 6"
@@ -4067,7 +3978,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"217"
+			"Index"		"211"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"2 10 6"
@@ -4078,21 +3989,21 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"218"
+			"Index"		"212"
 			"Type"		"DOOR"
 			"Deletable"		"1"
 			"VoxelPos"		"2 10 6"
 			"LocalPos"		"-0 -0.375 -0"
 			"Angles"		"0 90 0"
-			"ITEM_PROPERTY_CONNECTION_COUNT"		"4"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"ITEM_PROPERTY_START_REVERSED"		"0"
 			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
+			"ConnectionVisiblity"		"2"
 		}
 		"Item"
 		{
-			"Index"		"219"
+			"Index"		"213"
 			"Type"		"ITEM_WOM_CONDUCTOR"
 			"Deletable"		"1"
 			"VoxelPos"		"2 4 7"
@@ -4104,7 +4015,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"220"
+			"Index"		"214"
 			"Type"		"ITEM_LASER_EMITTER_OFFSET"
 			"Deletable"		"1"
 			"VoxelPos"		"3 4 6"
@@ -4117,7 +4028,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"221"
+			"Index"		"215"
 			"Type"		"ITEM_BARRIER"
 			"Deletable"		"1"
 			"VoxelPos"		"1 13 6"
@@ -4129,7 +4040,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"222"
+			"Index"		"216"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"1 17 6"
@@ -4140,7 +4051,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"223"
+			"Index"		"217"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"1 13 10"
@@ -4151,7 +4062,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"224"
+			"Index"		"218"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"1 13 6"
@@ -4162,7 +4073,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"225"
+			"Index"		"219"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"1 0 9"
@@ -4174,7 +4085,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"226"
+			"Index"		"220"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"0 15 8"
@@ -4186,20 +4097,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"227"
-			"Type"		"ITEM_PORTAL_MAGNET"
-			"Deletable"		"1"
-			"VoxelPos"		"0 15 6"
-			"LocalPos"		"-0 -0.125 -0"
-			"Angles"		"0 90 0"
-			"ITEM_PROPERTY_START_ENABLED"		"1"
-			"ITEM_PROPERTY_START_REVERSED"		"0"
-			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
-		}
-		"Item"
-		{
-			"Index"		"228"
+			"Index"		"221"
 			"Type"		"ITEM_BARRIER_HAZARD"
 			"Deletable"		"1"
 			"VoxelPos"		"5 14 8"
@@ -4213,7 +4111,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"229"
+			"Index"		"222"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"5 14 8"
@@ -4224,7 +4122,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"230"
+			"Index"		"223"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"5 14 8"
@@ -4235,7 +4133,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"231"
+			"Index"		"224"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"0 14 7"
@@ -4247,23 +4145,10 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"232"
-			"Type"		"ITEM_PORTAL_MAGNET"
-			"Deletable"		"1"
-			"VoxelPos"		"0 14 6"
-			"LocalPos"		"-0 -0.125 -0"
-			"Angles"		"0 90 0"
-			"ITEM_PROPERTY_START_ENABLED"		"1"
-			"ITEM_PROPERTY_START_REVERSED"		"0"
-			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
-		}
-		"Item"
-		{
-			"Index"		"233"
+			"Index"		"225"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
-			"VoxelPos"		"0 13 8"
+			"VoxelPos"		"0 13 9"
 			"LocalPos"		"0.375 -0 -0"
 			"Angles"		"0 180 90"
 			"ITEM_PROPERTY_CUBE_TYPE"		"0"
@@ -4272,7 +4157,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"234"
+			"Index"		"226"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"0 13 7"
@@ -4284,20 +4169,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"235"
-			"Type"		"ITEM_PORTAL_MAGNET"
-			"Deletable"		"1"
-			"VoxelPos"		"0 13 6"
-			"LocalPos"		"-0 -0.125 -0"
-			"Angles"		"0 90 0"
-			"ITEM_PROPERTY_START_ENABLED"		"1"
-			"ITEM_PROPERTY_START_REVERSED"		"0"
-			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
-		}
-		"Item"
-		{
-			"Index"		"236"
+			"Index"		"227"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"0 13 6"
@@ -4309,10 +4181,10 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"237"
+			"Index"		"228"
 			"Type"		"ITEM_TBEAM"
 			"Deletable"		"1"
-			"VoxelPos"		"0 13 9"
+			"VoxelPos"		"0 13 8"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 90"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
@@ -4324,7 +4196,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"238"
+			"Index"		"229"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"0 7 9"
@@ -4336,7 +4208,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"239"
+			"Index"		"230"
 			"Type"		"ITEM_LASER_CATCHER_OFFSET"
 			"Deletable"		"1"
 			"VoxelPos"		"0 4 6"
@@ -4348,7 +4220,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"240"
+			"Index"		"231"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"0 3 9"
@@ -4360,7 +4232,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"241"
+			"Index"		"232"
 			"Type"		"ITEM_BARRIER_HAZARD"
 			"Deletable"		"1"
 			"VoxelPos"		"3 16 5"
@@ -4374,7 +4246,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"242"
+			"Index"		"233"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"3 16 5"
@@ -4385,7 +4257,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"243"
+			"Index"		"234"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"3 16 5"
@@ -4396,7 +4268,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"244"
+			"Index"		"235"
 			"Type"		"DOOR"
 			"Deletable"		"1"
 			"VoxelPos"		"6 16 6"
@@ -4410,7 +4282,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"245"
+			"Index"		"236"
 			"Type"		"ITEM_BARRIER_HAZARD"
 			"Deletable"		"1"
 			"VoxelPos"		"6 16 6"
@@ -4424,7 +4296,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"246"
+			"Index"		"237"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"6 16 6"
@@ -4435,7 +4307,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"247"
+			"Index"		"238"
 			"Type"		"ITEM_BARRIER_HAZARD_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"6 16 6"
@@ -4446,7 +4318,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"248"
+			"Index"		"239"
 			"Type"		"ITEM_TRIGGERS"
 			"Deletable"		"1"
 			"VoxelPos"		"7 16 6"
@@ -4460,7 +4332,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"249"
+			"Index"		"240"
 			"Type"		"ITEM_TRIGGERS"
 			"Deletable"		"1"
 			"VoxelPos"		"6 16 0"
@@ -4474,7 +4346,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"250"
+			"Index"		"241"
 			"Type"		"ITEM_BARRIER"
 			"Deletable"		"1"
 			"VoxelPos"		"9 16 0"
@@ -4486,7 +4358,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"251"
+			"Index"		"242"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"9 19 0"
@@ -4497,7 +4369,7 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"252"
+			"Index"		"243"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"9 16 4"
@@ -4508,12 +4380,201 @@ The difficulty gradually increases."
 		}
 		"Item"
 		{
-			"Index"		"253"
+			"Index"		"244"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"9 16 0"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 -90 -90"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"245"
+			"Type"		"ITEM_PANEL_FLIP"
+			"Deletable"		"1"
+			"VoxelPos"		"6 18 0"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 0 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"246"
+			"Type"		"ITEM_LAUTARO_PEDESTAL_BUTTONS"
+			"Deletable"		"1"
+			"VoxelPos"		"13 21 0"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 0 0"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
+			"ITEM_PROPERTY_START_REVERSED"		"0"
+			"ITEM_PROPERTY_TIMER_DELAY"		"6"
+			"ITEM_PROPERTY_TIMER_SOUND"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"247"
+			"Type"		"ITEM_BEE_LOGIC_STRIP"
+			"Deletable"		"1"
+			"VoxelPos"		"6 18 5"
+			"LocalPos"		"-0 -0.125 -0"
+			"Angles"		"0 90 90"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"248"
+			"Type"		"ITEM_TSPEN_ANT_MAGNET"
+			"Deletable"		"1"
+			"VoxelPos"		"12 8 6"
+			"LocalPos"		"-0 -0.375 -0"
+			"Angles"		"0 90 90"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"4"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"249"
+			"Type"		"ITEM_TSPEN_ANT_MAGNET"
+			"Deletable"		"1"
+			"VoxelPos"		"2 9 7"
+			"LocalPos"		"-0 -0 -0.375"
+			"Angles"		"-90 90 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"4"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"250"
+			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
+			"Deletable"		"1"
+			"VoxelPos"		"16 3 6"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 0 -90"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
+			"ITEM_PROPERTY_START_ENABLED"		"1"
+			"ITEM_PROPERTY_START_REVERSED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"251"
+			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
+			"Deletable"		"1"
+			"VoxelPos"		"16 3 7"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 0 -90"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
+			"ITEM_PROPERTY_START_ENABLED"		"1"
+			"ITEM_PROPERTY_START_REVERSED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"252"
+			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
+			"Deletable"		"1"
+			"VoxelPos"		"16 3 8"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 0 -90"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
+			"ITEM_PROPERTY_START_ENABLED"		"1"
+			"ITEM_PROPERTY_START_REVERSED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"253"
+			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
+			"Deletable"		"1"
+			"VoxelPos"		"16 3 9"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 0 -90"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
+			"ITEM_PROPERTY_START_ENABLED"		"1"
+			"ITEM_PROPERTY_START_REVERSED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"254"
+			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
+			"Deletable"		"1"
+			"VoxelPos"		"17 4 9"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 0 -90"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
+			"ITEM_PROPERTY_START_ENABLED"		"1"
+			"ITEM_PROPERTY_START_REVERSED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"255"
+			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
+			"Deletable"		"1"
+			"VoxelPos"		"17 4 8"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 0 -90"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
+			"ITEM_PROPERTY_START_ENABLED"		"1"
+			"ITEM_PROPERTY_START_REVERSED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"256"
+			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
+			"Deletable"		"1"
+			"VoxelPos"		"17 4 7"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 0 -90"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
+			"ITEM_PROPERTY_START_ENABLED"		"1"
+			"ITEM_PROPERTY_START_REVERSED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"257"
+			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
+			"Deletable"		"1"
+			"VoxelPos"		"17 4 6"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 0 -90"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
+			"ITEM_PROPERTY_START_ENABLED"		"1"
+			"ITEM_PROPERTY_START_REVERSED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"258"
+			"Type"		"ITEM_PORTAL_MAGNET"
+			"Deletable"		"1"
+			"VoxelPos"		"0 14 6"
+			"LocalPos"		"-0 -0.125 -0"
+			"Angles"		"0 90 0"
+			"ITEM_PROPERTY_START_ENABLED"		"1"
+			"ITEM_PROPERTY_START_REVERSED"		"0"
 			"Facing"		"0 0 0"
 			"ConnectionVisiblity"		"0"
 		}
@@ -4582,320 +4643,302 @@ The difficulty gradually increases."
 		}
 		"Connection"
 		{
-			"Sender"		"29"
-			"Receiver"		"30"
-			"Type"		"CONNECTION_PAINT_DROPPER"
-		}
-		"Connection"
-		{
-			"Sender"		"31"
-			"Receiver"		"30"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"45"
-			"Receiver"		"46"
+			"Sender"		"41"
+			"Receiver"		"42"
 			"Type"		"CONNECTION_BOX_DROPPER"
-		}
-		"Connection"
-		{
-			"Sender"		"59"
-			"Receiver"		"50"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"64"
-			"Receiver"		"62"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"65"
-			"Receiver"		"66"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"65"
-			"Receiver"		"67"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"74"
-			"Receiver"		"65"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"93"
-			"Receiver"		"94"
-			"Type"		"CONNECTION_BOX_DROPPER"
-		}
-		"Connection"
-		{
-			"Sender"		"83"
-			"Receiver"		"94"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"91"
-			"Receiver"		"96"
-			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
 			"Sender"		"55"
+			"Receiver"		"46"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"60"
+			"Receiver"		"58"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"61"
+			"Receiver"		"62"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"61"
+			"Receiver"		"63"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"70"
+			"Receiver"		"61"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"87"
+			"Receiver"		"88"
+			"Type"		"CONNECTION_BOX_DROPPER"
+		}
+		"Connection"
+		{
+			"Sender"		"79"
+			"Receiver"		"88"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"85"
+			"Receiver"		"90"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"51"
+			"Receiver"		"114"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"119"
+			"Receiver"		"120"
+			"Type"		"CONNECTION_BOX_DROPPER"
+		}
+		"Connection"
+		{
+			"Sender"		"118"
 			"Receiver"		"120"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"125"
-			"Receiver"		"126"
-			"Type"		"CONNECTION_BOX_DROPPER"
+			"Sender"		"123"
+			"Receiver"		"111"
+			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"124"
-			"Receiver"		"126"
-			"Type"		"CONNECTION_STANDARD"
+			"Sender"		"131"
+			"Receiver"		"132"
+			"Type"		"CONNECTION_BOX_DROPPER"
 		}
 		"Connection"
 		{
 			"Sender"		"129"
-			"Receiver"		"117"
+			"Receiver"		"132"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"137"
-			"Receiver"		"138"
-			"Type"		"CONNECTION_BOX_DROPPER"
+			"Sender"		"133"
+			"Receiver"		"134"
+			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
 			"Sender"		"135"
-			"Receiver"		"138"
-			"Type"		"CONNECTION_STANDARD"
+			"Receiver"		"136"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"135"
+			"Receiver"		"137"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
 		}
 		"Connection"
 		{
 			"Sender"		"139"
-			"Receiver"		"140"
+			"Receiver"		"141"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"141"
-			"Receiver"		"142"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"141"
+			"Sender"		"66"
 			"Receiver"		"143"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"143"
+			"Receiver"		"144"
 			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
 		}
 		"Connection"
 		{
-			"Sender"		"145"
+			"Sender"		"143"
+			"Receiver"		"145"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"70"
 			"Receiver"		"147"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"70"
+			"Sender"		"147"
+			"Receiver"		"148"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"147"
 			"Receiver"		"149"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"149"
-			"Receiver"		"150"
 			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
 		}
 		"Connection"
 		{
-			"Sender"		"149"
+			"Sender"		"66"
 			"Receiver"		"151"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"74"
-			"Receiver"		"153"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"153"
-			"Receiver"		"154"
+			"Sender"		"151"
+			"Receiver"		"152"
 			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
 		}
 		"Connection"
 		{
-			"Sender"		"153"
+			"Sender"		"151"
+			"Receiver"		"153"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"156"
 			"Receiver"		"155"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"70"
-			"Receiver"		"157"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
 			"Sender"		"157"
 			"Receiver"		"158"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"157"
-			"Receiver"		"159"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"162"
-			"Receiver"		"161"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"163"
+			"Sender"		"158"
+			"Receiver"		"156"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"158"
+			"Receiver"		"157"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"158"
 			"Receiver"		"164"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
 			"Sender"		"164"
-			"Receiver"		"162"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"164"
-			"Receiver"		"163"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"164"
-			"Receiver"		"170"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"170"
-			"Receiver"		"160"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"171"
-			"Receiver"		"163"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"134"
-			"Receiver"		"175"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"175"
-			"Receiver"		"162"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"177"
-			"Receiver"		"178"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"177"
-			"Receiver"		"179"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"177"
-			"Receiver"		"180"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"182"
-			"Receiver"		"184"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"182"
-			"Receiver"		"183"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"172"
-			"Receiver"		"185"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"169"
-			"Receiver"		"185"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"167"
-			"Receiver"		"185"
+			"Receiver"		"154"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
 			"Sender"		"165"
+			"Receiver"		"157"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"128"
+			"Receiver"		"169"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"169"
+			"Receiver"		"156"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"171"
+			"Receiver"		"172"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"171"
+			"Receiver"		"173"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"171"
+			"Receiver"		"174"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"176"
+			"Receiver"		"178"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"176"
+			"Receiver"		"177"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"183"
 			"Receiver"		"185"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"189"
-			"Receiver"		"191"
+			"Sender"		"191"
+			"Receiver"		"186"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"197"
-			"Receiver"		"192"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"202"
-			"Receiver"		"203"
+			"Sender"		"196"
+			"Receiver"		"197"
 			"Type"		"CONNECTION_BOX_DROPPER"
 		}
 		"Connection"
 		{
-			"Sender"		"194"
-			"Receiver"		"203"
+			"Sender"		"188"
+			"Receiver"		"197"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"214"
-			"Receiver"		"212"
+			"Sender"		"208"
+			"Receiver"		"206"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"209"
+			"Receiver"		"210"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"209"
+			"Receiver"		"211"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"213"
+			"Receiver"		"214"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
@@ -4912,27 +4955,9 @@ The difficulty gradually increases."
 		}
 		"Connection"
 		{
-			"Sender"		"198"
+			"Sender"		"215"
 			"Receiver"		"218"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"204"
-			"Receiver"		"218"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"206"
-			"Receiver"		"218"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"219"
-			"Receiver"		"220"
-			"Type"		"CONNECTION_STANDARD"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
 		}
 		"Connection"
 		{
@@ -4948,32 +4973,50 @@ The difficulty gradually increases."
 		}
 		"Connection"
 		{
-			"Sender"		"221"
-			"Receiver"		"224"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"228"
-			"Receiver"		"229"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"228"
-			"Receiver"		"230"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"96"
-			"Receiver"		"237"
+			"Sender"		"90"
+			"Receiver"		"228"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
+			"Sender"		"232"
+			"Receiver"		"233"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"232"
+			"Receiver"		"234"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"92"
+			"Receiver"		"235"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"236"
+			"Receiver"		"237"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"236"
+			"Receiver"		"238"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
 			"Sender"		"239"
-			"Receiver"		"218"
+			"Receiver"		"2"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"240"
+			"Receiver"		"18"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
@@ -4990,57 +5033,87 @@ The difficulty gradually increases."
 		}
 		"Connection"
 		{
-			"Sender"		"98"
+			"Sender"		"241"
 			"Receiver"		"244"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"246"
+			"Receiver"		"245"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"245"
-			"Receiver"		"246"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+			"Sender"		"40"
+			"Receiver"		"247"
+			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"245"
-			"Receiver"		"247"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+			"Sender"		"247"
+			"Receiver"		"42"
+			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
 			"Sender"		"248"
-			"Receiver"		"2"
+			"Receiver"		"179"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"44"
-			"Receiver"		"46"
+			"Sender"		"166"
+			"Receiver"		"248"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"163"
+			"Receiver"		"248"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"161"
+			"Receiver"		"248"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"159"
+			"Receiver"		"248"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
 			"Sender"		"249"
-			"Receiver"		"18"
+			"Receiver"		"212"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"250"
-			"Receiver"		"251"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+			"Sender"		"230"
+			"Receiver"		"249"
+			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"250"
-			"Receiver"		"252"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+			"Sender"		"200"
+			"Receiver"		"249"
+			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"250"
-			"Receiver"		"253"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+			"Sender"		"198"
+			"Receiver"		"249"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"192"
+			"Receiver"		"249"
+			"Type"		"CONNECTION_STANDARD"
 		}
 	}
 }
