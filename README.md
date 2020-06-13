@@ -15,5 +15,13 @@ It's possible to play the map split-screen if you can't find anyone. To do this;
 - Once the map is loaded; type in the console `sv_cheats 1`
 - Now you're good to go; pressing z will let you change which player you are controlling.
 
-Other ways:
-The first thing you do is go to "Community Test Chambers." Then, go to "Create Test Chambers." Then, select "New Test Chamber" then click "New" at the bottom of your screen. Once you load in, click "File" in the top left. Then, select "Cooperative Puzzle." From there, click "Build and Play Puzzle" in the top middle of your screen. Once it loads in, open up the console (activate it in the "Keyboard and Mouse" part of the options menu in the pause screen) and type in: "changelevel mp_coop_lobby_3" Give it a minute to load, and then your set! Just press "R" to change players! One other thing: If you want to do the Calibration Course, you have to reopen the console and type in: "changelevel mp_coop_start" Now you know how to do splitscreen Co-op on Steam with 1 player!
+Other ways:  
+The first thing you do is go to "Community Test Chambers".  
+Then, go to "Create Test Chambers".  
+Then, select "New Test Chamber" then click "New" at the bottom of your screen.  
+Once you load in, click "File" in the top left.  
+Then, select "Cooperative Puzzle".  
+From there, click "Build and Play Puzzle" in the top middle of your screen.  
+Once it loads in, open up the console (activate it in the "Keyboard and Mouse" part of the options menu in the pause screen) and type in: "changelevel mp_coop_lobby_3" Give it a minute to load, and then your set!  
+Just press "R" to change players!  
+One other thing: If you want to do the Calibration Course, you have to reopen the console and type in: "changelevel mp_coop_start" Now you know how to do splitscreen Co-op on Steam with 1 player!
