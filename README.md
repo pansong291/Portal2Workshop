@@ -1,5 +1,6 @@
 # Portal2Workshop
-This repository is used to store the workshop maps of Portal2.
+This repository is used to store the workshop maps of Portal2.  
+[They are published here.](https://steamcommunity.com/profiles/76561198391583576/myworkshopfiles/?appid=620)  
 
 The **p2c** file's path is _**Your steam installation directory**\\steamapps\\common\\Portal 2\\portal2\\puzzles\\**Big number**_
 
