@@ -4,8 +4,8 @@
 	"Version"		"14"
 	"FileID"		"0x000000007DF93AF2"
 	"Timestamp_Created"		"0x000000005ED12B36"
-	"Timestamp_Modified"		"0x000000005EEF0A2D"
-	"CompileTime"		"49.074001"
+	"Timestamp_Modified"		"0x000000005F12958A"
+	"CompileTime"		"47.903004"
 	"Coop"		"1"
 	"Title"		"Diana"
 	"Description"		"have fun"
@@ -22,7 +22,7 @@
 				"Y12"		"f11111111110"
 				"Y11"		"f11111111110"
 				"Y10"		"f11111111110"
-				"Y9"		"f11111111110"
+				"Y9"		"f11011111110"
 				"Y8"		"f11111111110"
 				"Y7"		"f11111111110"
 				"Y6"		"f11111111110"
@@ -169,7 +169,7 @@
 				"Y12"		"f11111011111"
 				"Y11"		"f11111011111"
 				"Y10"		"f01111111111"
-				"Y9"		"f11111100111"
+				"Y9"		"f11001100111"
 				"Y8"		"f11000101111"
 				"Y7"		"f11010100111"
 				"Y6"		"f11000111111"
@@ -315,7 +315,7 @@
 				"Y13"		"f11110111111"
 				"Y12"		"f11110111111"
 				"Y11"		"f11011111111"
-				"Y10"		"f11111000111"
+				"Y10"		"f11011000111"
 				"Y9"		"f10001010111"
 				"Y8"		"f10101000111"
 				"Y7"		"f10001111111"
@@ -331,7 +331,7 @@
 			{
 				"Y14"		"f11110111111"
 				"Y13"		"f11110111111"
-				"Y12"		"f11010110111"
+				"Y12"		"f11110110111"
 				"Y11"		"f11011110111"
 				"Y10"		"f11111110111"
 				"Y9"		"f11111111111"
@@ -463,7 +463,7 @@
 				"Y12"		"f11110111111"
 				"Y11"		"f11110111111"
 				"Y10"		"f11111111111"
-				"Y9"		"f11111000111"
+				"Y9"		"f11011000111"
 				"Y8"		"f10001010111"
 				"Y7"		"f10101000111"
 				"Y6"		"f10001111011"
@@ -523,7 +523,7 @@
 				"Y6"		"f11111111111"
 				"Y5"		"f11101101111"
 				"Y4"		"f11111000111"
-				"Y3"		"f00000000111"
+				"Y3"		"f00000001111"
 				"Y2"		"f00001000111"
 				"Y1"		"f00001100111"
 				"Y0"		"f00001101111"
@@ -541,7 +541,7 @@
 				"Y6"		"f11111111001"
 				"Y5"		"f00010010111"
 				"Y4"		"f11101000111"
-				"Y3"		"f01100000111"
+				"Y3"		"f01100100111"
 				"Y2"		"f00000000111"
 				"Y1"		"f00001001111"
 				"Y0"		"f00011101111"
@@ -886,7 +886,7 @@
 			"Deletable"		"1"
 			"VoxelPos"		"2 11 1"
 			"LocalPos"		"0 0 0"
-			"Angles"		"0 -90 0"
+			"Angles"		"90 -90 0"
 			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
 			"Facing"		"0 0 0"
 			"ConnectionVisiblity"		"0"
@@ -991,7 +991,7 @@
 			"VoxelPos"		"2 8 6"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 180"
-			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"2"
 			"ITEM_PROPERTY_START_ENABLED"		"0"
 			"Facing"		"0 0 0"
 			"ConnectionVisiblity"		"0"
@@ -1440,12 +1440,12 @@
 			"VoxelPos"		"7 11 1"
 			"LocalPos"		"0 0 0.5"
 			"Angles"		"0 0 0"
-			"ITEM_PROPERTY_CUBE_TYPE"		"4"
+			"ITEM_PROPERTY_CUBE_TYPE"		"1"
 			"ITEM_PROPERTY_DROPPER_ENABLED"		"0"
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"ITEM_PROPERTY_TIMER_DELAY"		"0"
-			"Facing"		"-0 90 0"
+			"Facing"		"-0 -90 0"
 			"ConnectionVisiblity"		"0"
 		}
 		"Item"
@@ -1457,9 +1457,9 @@
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 180"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
-			"ITEM_PROPERTY_CUBE_TYPE"		"4"
+			"ITEM_PROPERTY_CUBE_TYPE"		"1"
 			"ITEM_PROPERTY_DROPPER_ENABLED"		"0"
-			"ITEM_PROPERTY_DROPPER_FALL_STRAIGHT_DOWN"		"0"
+			"ITEM_PROPERTY_DROPPER_FALL_STRAIGHT_DOWN"		"1"
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
 			"ITEM_PROPERTY_TIMER_DELAY"		"0"
@@ -2193,6 +2193,117 @@
 			"Facing"		"0 0 0"
 			"ConnectionVisiblity"		"0"
 		}
+		"Item"
+		{
+			"Index"		"124"
+			"Type"		"ITEM_CATAPULT"
+			"Deletable"		"1"
+			"VoxelPos"		"2 9 0"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 90 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
+			"ITEM_PROPERTY_START_ENABLED"		"1"
+			"ITEM_PROPERTY_CATAPULT_SPEED"		"277.127991"
+			"ITEM_PROPERTY_TARGET_NAME"		"target"
+			"ITEM_PROPERTY_VERTICAL_ALIGNMENT"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+			"CatapultHeight"		"1.000000"
+		}
+		"Item"
+		{
+			"Index"		"125"
+			"Type"		"ITEM_CATAPULT_TARGET"
+			"Deletable"		"1"
+			"VoxelPos"		"2 8 1"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 0 0"
+			"ITEM_PROPERTY_VERTICAL_ALIGNMENT"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"126"
+			"Type"		"ITEM_BEE2_ANGLED_BLOCK"
+			"Deletable"		"1"
+			"VoxelPos"		"2 9 0"
+			"LocalPos"		"0 0 0"
+			"Angles"		"-90 0 0"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
+			"ITEM_PROPERTY_START_ENABLED"		"1"
+			"ITEM_PROPERTY_START_REVERSED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"127"
+			"Type"		"ITEM_TRIGGERS"
+			"Deletable"		"1"
+			"VoxelPos"		"2 11 1"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 0 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
+			"ITEM_PROPERTY_START_REVERSED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"2"
+		}
+		"Item"
+		{
+			"Index"		"128"
+			"Type"		"ITEM_TRIGGERS"
+			"Deletable"		"1"
+			"VoxelPos"		"5 3 4"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 0 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
+			"ITEM_PROPERTY_START_REVERSED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"2"
+		}
+		"Item"
+		{
+			"Index"		"129"
+			"Type"		"ITEM_BEE_LOGIC_STRIP"
+			"Deletable"		"1"
+			"VoxelPos"		"5 3 4"
+			"LocalPos"		"-0 -0 0.125"
+			"Angles"		"90 0 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"2"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"2"
+		}
+		"Item"
+		{
+			"Index"		"130"
+			"Type"		"ITEM_TRIGGERS"
+			"Deletable"		"1"
+			"VoxelPos"		"7 3 3"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 0 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"1"
+			"ITEM_PROPERTY_START_REVERSED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"2"
+		}
+		"Item"
+		{
+			"Index"		"131"
+			"Type"		"ITEM_BEE_LOGIC_STRIP"
+			"Deletable"		"1"
+			"VoxelPos"		"7 3 3"
+			"LocalPos"		"-0 -0 0.125"
+			"Angles"		"90 180 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"2"
+			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"2"
+		}
 	}
 	"Connections"
 	{
@@ -2462,12 +2573,6 @@
 		}
 		"Connection"
 		{
-			"Sender"		"83"
-			"Receiver"		"91"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
 			"Sender"		"91"
 			"Receiver"		"86"
 			"Type"		"CONNECTION_STANDARD"
@@ -2482,18 +2587,6 @@
 		{
 			"Sender"		"92"
 			"Receiver"		"93"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"83"
-			"Receiver"		"94"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"84"
-			"Receiver"		"94"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
@@ -2517,12 +2610,6 @@
 		"Connection"
 		{
 			"Sender"		"92"
-			"Receiver"		"95"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"84"
 			"Receiver"		"95"
 			"Type"		"CONNECTION_STANDARD"
 		}
@@ -2560,6 +2647,66 @@
 		{
 			"Sender"		"123"
 			"Receiver"		"27"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"124"
+			"Receiver"		"125"
+			"Type"		"CONNECTION_CATAPULT_TARGET"
+		}
+		"Connection"
+		{
+			"Sender"		"127"
+			"Receiver"		"29"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"83"
+			"Receiver"		"129"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"128"
+			"Receiver"		"129"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"129"
+			"Receiver"		"94"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"129"
+			"Receiver"		"91"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"130"
+			"Receiver"		"131"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"84"
+			"Receiver"		"131"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"131"
+			"Receiver"		"94"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"131"
+			"Receiver"		"95"
 			"Type"		"CONNECTION_STANDARD"
 		}
 	}
