@@ -1,5 +1,5 @@
 # Portal2Workshop
-English | [中文](blob/master/README_ZH-CN.md)
+English | [中文](README_ZH-CN.md)
 
 This repository is used to store the workshop maps of Portal2.  
 [They are published here.](https://steamcommunity.com/profiles/76561198391583576/myworkshopfiles/?appid=620)  
