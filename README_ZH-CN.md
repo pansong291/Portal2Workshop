@@ -1,5 +1,5 @@
 # Portal2Workshop
-[English](../README.md) | 中文
+[English](README.md) | 中文
 
 这个仓库用来储存 Portal2 的创意工坊地图。  
 [它们发布在这里。](https://steamcommunity.com/profiles/76561198391583576/myworkshopfiles/?appid=620)  
