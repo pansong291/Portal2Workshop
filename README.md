@@ -1,15 +1,15 @@
 # Portal2Workshop
 English | [中文](README_ZH-CN.md)
 
-This repository is used to store the workshop maps of Portal2.  
+This repository is used to store the workshop maps of Portal 2.  
 [They are published here.](https://steamcommunity.com/profiles/76561198391583576/myworkshopfiles/?appid=620)  
 
-To compile these puzzles, you need to install the [BEE2](https://github.com/BEEmod/BEE2.4/releases) mod for the **.p2c** files, the [Portal 2 Authoring Tools](https://developer.valvesoftware.com/wiki/Authoring_Tools/SDK_(Portal_2)) for the **.vmf** files.  
+To compile these puzzles, you need to install the [BEE 2](https://github.com/BEEmod/BEE2.4/releases) mod for the **.p2c** files, the [Portal 2 Authoring Tools](https://developer.valvesoftware.com/wiki/Authoring_Tools/SDK_(Portal_2)) for the **.vmf** files.  
 
 - The **.p2c** file's path is _**Your steam installation directory**\\steamapps\\common\\Portal 2\\portal2\\puzzles\\**BigNumber**_
 - The **.vmf** file's path is _**Your steam installation directory**\\steamapps\\common\\Portal 2\\portal2\\maps_
 
-If you want to know how to use **Hammer** to make a Portal2 map, please read [this series of guides](https://steamcommunity.com/sharedfiles/filedetails/?id=2204608925).
+If you want to know how to use **Hammer** to make a Portal 2 map, please read [these series of guides](https://steamcommunity.com/sharedfiles/filedetails/?id=2204608925).
 
 It's possible to play the map split-screen if you can't find anyone. To do this;
 - Download the map (the **.bsp** file) you want.

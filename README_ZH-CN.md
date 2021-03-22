@@ -1,20 +1,20 @@
 # Portal2Workshop
 [English](README.md) | 中文
 
-这个仓库用来储存 Portal2 的创意工坊地图。  
+这个仓库用来储存 Portal 2 的创意工坊地图。  
 [它们发布在这里。](https://steamcommunity.com/profiles/76561198391583576/myworkshopfiles/?appid=620)  
 
-要编译这些谜题，对于 **.p2c** 文件，你需要安装 [BEE2](https://github.com/BEEmod/BEE2.4/releases) mod，对于 **.vmf** 文件，需要安装 [Portal 2 Authoring Tools](https://developer.valvesoftware.com/wiki/Authoring_Tools/SDK_(Portal_2))。  
+要编译这些谜题，对于 **.p2c** 文件，你需要安装 [BEE 2](https://github.com/BEEmod/BEE2.4/releases) mod，对于 **.vmf** 文件，需要安装 [Portal 2 Authoring Tools](https://developer.valvesoftware.com/wiki/Authoring_Tools/SDK_(Portal_2)) 。  
 
 - **.p2c** 文件的路径为 _**你的 Steam 安装目录**\\steamapps\\common\\Portal 2\\portal2\\puzzles\\**一串长数字**_
 - **.vmf** 文件的路径为 _**你的 Steam 安装目录**\\steamapps\\common\\Portal 2\\portal2\\maps_
 
-如果你想知道如何使用 **Hammer** 制作 Portal2 地图，请阅读[此系列指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2204608925)。
+如果你想知道如何使用 **Hammer** 制作 Portal 2 地图，请阅读[此系列指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2204608925) 。
 
 如果你找不到伙伴，也能够通过分屏模式玩双人地图。操作方法：
 - 下载你想要的地图文件（**.bsp** 文件）。
 - 复制 **.bsp** 文件到地图主目录下（_**你的 Steam 安装目录**\\steamapps\\common\\Portal 2\\portal2\\maps_）
-- 启动 Portal2 并选择 "社区实验室"。
+- 启动 Portal 2 并选择 "社区实验室"。
 - 选择 "新建实验室" 并点击屏幕下边的 "新建"。
 - 加载完后，点击左上角的 "文件"。
 - 选择 "合作谜题"。
